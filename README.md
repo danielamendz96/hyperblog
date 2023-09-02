@@ -1,4 +1,4 @@
-# hyperblog :tw-1f49a:
+# hyperblog 💚 
  blog para el curso de git y github en platzi
 > El curso de git y github es lo que me hacia falta, para comenzar a trabajar como desarrolladora front end
 
