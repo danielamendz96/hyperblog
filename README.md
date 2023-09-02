@@ -11,5 +11,6 @@ En este curso se vera de todo:
 - Trucos muy locos
 - Creado por el increible team de platzi
 - Incluye ejemplos en linux, windows y mac
+- Disponible para todas las edades
 
 y como recordatorio este Readme es un **chiste**que fue diseñado como ejemplo [curso de git y github](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "curso de git y github")
